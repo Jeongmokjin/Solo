@@ -4,7 +4,7 @@ function Header(){
     return(
         <>
         <Head>
-            헤드
+            헤드 수정 중...
         </Head>
         </>
     );
