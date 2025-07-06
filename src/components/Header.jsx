@@ -5,6 +5,7 @@ function Header(){
         <>
         <Head>
             헤드 수정 중...
+            계속해서 수정 중...
         </Head>
         </>
     );
